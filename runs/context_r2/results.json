@@ -1,0 +1,229 @@
+{
+  "run": "context_r2",
+  "field_accuracy_pct": 97.6,
+  "fields_correct": 123,
+  "fields_total": 126,
+  "invoices_fully_correct": 12,
+  "invoices": 14,
+  "flagged_for_review": 0,
+  "meta": {
+    "stage": "context",
+    "model": "claude-haiku-4-5-20251001",
+    "engine": "auto",
+    "invoices": 14,
+    "llm_calls": 14,
+    "wall_seconds": 300.0
+  },
+  "per_invoice": {
+    "inv_01": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_02": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_03": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_04": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_05": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_06": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_07": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": false,
+        "tax_amount": false,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 7,
+      "flagged_for_review": false
+    },
+    "inv_08": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_09": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_10": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_11": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_12": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_13": {
+      "fields": {
+        "vendor_name": true,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 9,
+      "flagged_for_review": false
+    },
+    "inv_14": {
+      "fields": {
+        "vendor_name": false,
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": true,
+        "currency": true,
+        "subtotal": true,
+        "tax_amount": true,
+        "total": true,
+        "line_items": true
+      },
+      "correct": 8,
+      "flagged_for_review": false
+    }
+  }
+}

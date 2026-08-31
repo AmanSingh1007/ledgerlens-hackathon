@@ -1,0 +1,24 @@
+{
+  "vendor_name": "Fairview Trdg Pte Ltd",
+  "invoice_number": "FT-8901",
+  "invoice_date": "2025-04-05",
+  "due_date": "2025-04-19",
+  "currency": "SGD",
+  "subtotal": 380.0,
+  "tax_amount": 34.2,
+  "total": 414.2,
+  "line_items": [
+    {
+      "description": "Bamboo shelving unit",
+      "quantity": 4,
+      "unit_price": 85.0,
+      "amount": 340.0
+    },
+    {
+      "description": "Delivery & assembly",
+      "quantity": 1,
+      "unit_price": 40.0,
+      "amount": 40.0
+    }
+  ]
+}

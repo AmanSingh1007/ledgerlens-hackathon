@@ -1,0 +1,24 @@
+{
+  "vendor_name": "Fairview Trading Pte Ltd",
+  "invoice_number": "FT-8814",
+  "invoice_date": "2025-04-23",
+  "due_date": "2025-05-07",
+  "currency": "SGD",
+  "subtotal": 980.0,
+  "tax_amount": 88.2,
+  "total": 1068.2,
+  "line_items": [
+    {
+      "description": "Rattan lounge chair",
+      "quantity": 8,
+      "unit_price": 62.5,
+      "amount": 500.0
+    },
+    {
+      "description": "Teak coffee table",
+      "quantity": 2,
+      "unit_price": 240.0,
+      "amount": 480.0
+    }
+  ]
+}

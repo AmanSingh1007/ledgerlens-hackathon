@@ -1,0 +1,30 @@
+{
+  "vendor_name": "QUILL & SAGE PRINTING LTD.",
+  "invoice_number": "QS-25-0287",
+  "invoice_date": "2025-02-11",
+  "due_date": "2025-03-13",
+  "currency": "GBP",
+  "subtotal": 235.91,
+  "tax_amount": 15.33,
+  "total": 251.24,
+  "line_items": [
+    {
+      "description": "Business cards, 400gsm matte",
+      "quantity": 250,
+      "unit_price": 0.085,
+      "amount": 21.25
+    },
+    {
+      "description": "Flyers A5, full colour",
+      "quantity": 1200,
+      "unit_price": 0.0525,
+      "amount": 63.0
+    },
+    {
+      "description": "Posters A1, satin finish",
+      "quantity": 35,
+      "unit_price": 4.333,
+      "amount": 151.66
+    }
+  ]
+}

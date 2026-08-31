@@ -1,0 +1,21 @@
+FAIRVIEW TRDG PTE LTD
+
+TAX INVOICE
+
+Invoice No : FT-8901
+Date       : 05/04/2025
+Payment    : Net 14
+
+Sold To: Banyan Interiors LLP
+
+--------------------------------------------------------------
+ DESCRIPTION                      QTY    UNIT PRICE     AMOUNT
+--------------------------------------------------------------
+ Bamboo shelving unit              4       85.00        340.00
+ Delivery & assembly               1       40.00         40.00
+--------------------------------------------------------------
+                                        Subtotal:      $380.00
+                                        GST (9%):       $34.20
+                                        TOTAL:         $414.20
+
+Goods remain property of the seller until paid in full.

@@ -1,0 +1,8 @@
+{
+  "stage": "verify",
+  "model": "claude-haiku-4-5-20251001",
+  "engine": "auto",
+  "invoices": 14,
+  "llm_calls": 14,
+  "wall_seconds": 270.6
+}

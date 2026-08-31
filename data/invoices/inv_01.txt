@@ -1,0 +1,28 @@
+NORTHWIND OFFICE SUPPLIES
+482 Commerce Blvd, Portland, OR 97201
+billing@northwindoffice.example
+
+                    INVOICE
+
+Invoice No: NW-2025-0117
+Invoice Date: July 14, 2025
+Due Date: August 13, 2025
+Currency: USD
+
+Bill To:
+  Gable & Finch Accounting LLP
+  1200 SW 5th Ave, Portland, OR
+
+--------------------------------------------------------------
+ DESCRIPTION                      QTY    UNIT PRICE     AMOUNT
+--------------------------------------------------------------
+ Copy paper A4 80gsm (500 shts)    10        4.50        45.00
+ Heavy-duty stapler                 2       12.99        25.98
+ Ink cartridge, black (XL)          3       31.00        93.00
+--------------------------------------------------------------
+                                        Subtotal:       163.98
+                                        Sales Tax (8%):  13.12
+                                        TOTAL DUE:      177.10
+
+Thank you for your business!
+Payment terms: Net 30

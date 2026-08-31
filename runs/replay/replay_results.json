@@ -1,0 +1,108 @@
+[
+  {
+    "invoice": "inv_01",
+    "wrong_fields_before": [],
+    "validator_errors": [],
+    "detected": false
+  },
+  {
+    "invoice": "inv_02",
+    "wrong_fields_before": [],
+    "validator_errors": [],
+    "detected": false
+  },
+  {
+    "invoice": "inv_03",
+    "wrong_fields_before": [
+      "line_items"
+    ],
+    "validator_errors": [],
+    "detected": false
+  },
+  {
+    "invoice": "inv_04",
+    "wrong_fields_before": [],
+    "validator_errors": [],
+    "detected": false
+  },
+  {
+    "invoice": "inv_05",
+    "wrong_fields_before": [],
+    "validator_errors": [],
+    "detected": false
+  },
+  {
+    "invoice": "inv_06",
+    "wrong_fields_before": [],
+    "validator_errors": [],
+    "detected": false
+  },
+  {
+    "invoice": "inv_07",
+    "wrong_fields_before": [
+      "subtotal",
+      "tax_amount"
+    ],
+    "validator_errors": [],
+    "detected": false
+  },
+  {
+    "invoice": "inv_08",
+    "wrong_fields_before": [
+      "line_items"
+    ],
+    "validator_errors": [
+      "line_items[2] arithmetic: quantity 2 x unit_price 245.0 = 490.00, but amount is 940.00",
+      "line item sum 5230.00 matches neither subtotal 4780.00 nor total 4780.00. Check for missed/duplicated lines, OCR digit errors, or whether printed prices are tax-inclusive (then subtotal = total / (1 + rate))."
+    ],
+    "detected": true,
+    "correction_attempts": 1,
+    "wrong_fields_after": [],
+    "remaining_validator_errors": []
+  },
+  {
+    "invoice": "inv_09",
+    "wrong_fields_before": [],
+    "validator_errors": [],
+    "detected": false
+  },
+  {
+    "invoice": "inv_10",
+    "wrong_fields_before": [],
+    "validator_errors": [],
+    "detected": false
+  },
+  {
+    "invoice": "inv_11",
+    "wrong_fields_before": [
+      "total"
+    ],
+    "validator_errors": [
+      "totals arithmetic: subtotal 235.91 + tax 15.33 = 251.24, but total is 215.24"
+    ],
+    "detected": true,
+    "correction_attempts": 1,
+    "wrong_fields_after": [],
+    "remaining_validator_errors": []
+  },
+  {
+    "invoice": "inv_12",
+    "wrong_fields_before": [],
+    "validator_errors": [],
+    "detected": false
+  },
+  {
+    "invoice": "inv_13",
+    "wrong_fields_before": [],
+    "validator_errors": [],
+    "detected": false
+  },
+  {
+    "invoice": "inv_14",
+    "wrong_fields_before": [
+      "vendor_name"
+    ],
+    "validator_errors": [],
+    "detected": false
+  }
+]

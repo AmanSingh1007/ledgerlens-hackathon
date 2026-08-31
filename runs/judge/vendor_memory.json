@@ -1,0 +1,64 @@
+[
+  {
+    "canonical_name": "NORTHWIND OFFICE SUPPLIES",
+    "currency": "USD",
+    "tax_rate": 0.08,
+    "prices_include_tax": false
+  },
+  {
+    "canonical_name": "BRIGHTLINE ELECTRIC CO.",
+    "currency": "USD",
+    "tax_rate": 0.095,
+    "prices_include_tax": false
+  },
+  {
+    "canonical_name": "Meridian Supply GmbH",
+    "currency": "EUR",
+    "tax_rate": 0.19,
+    "prices_include_tax": true,
+    "date_format": "DD.MM.YYYY (day first)"
+  },
+  {
+    "canonical_name": "CASCADE WEB STUDIO",
+    "currency": "USD"
+  },
+  {
+    "canonical_name": "ALPINE DATA SERVICES s.r.o.",
+    "currency": "EUR",
+    "tax_rate": 0.1,
+    "prices_include_tax": false
+  },
+  {
+    "canonical_name": "HARBOR FREIGHT LOGISTICS INC.",
+    "currency": "USD"
+  },
+  {
+    "canonical_name": "JUNIPER CATERING & EVENTS",
+    "currency": "CAD",
+    "tax_rate": 0.05,
+    "prices_include_tax": false
+  },
+  {
+    "canonical_name": "STELLAR COMPONENTS LTD",
+    "currency": "USD",
+    "tax_rate": 0.0663,
+    "prices_include_tax": false
+  },
+  {
+    "canonical_name": "QUILL & SAGE PRINTING LTD.",
+    "currency": "GBP",
+    "tax_rate": 0.065,
+    "prices_include_tax": false
+  },
+  {
+    "canonical_name": "Tomas Rivera - Handyman Services",
+    "currency": "USD"
+  },
+  {
+    "canonical_name": "FAIRVIEW TRADING PTE LTD",
+    "currency": "SGD",
+    "tax_rate": 0.09,
+    "prices_include_tax": false,
+    "date_format": "DD/MM/YYYY (day first)"
+  }
+]

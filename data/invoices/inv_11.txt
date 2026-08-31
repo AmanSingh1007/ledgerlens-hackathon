@@ -1,0 +1,25 @@
+QUILL & SAGE PRINTING LTD.
+14 Bishopsgate Mews, London EC2M
+VAT Reg: GB 442 8871 09
+
+INVOICE
+
+Invoice ref: QS-25-0287
+Date of invoice: 11 February 2025
+Terms: 30 days
+Currency: GBP (pounds sterling)
+
+Customer: Larkspur Gallery
+
+------------------------------------------------------------------
+ JOB DESCRIPTION                    QTY      UNIT PRICE    AMOUNT
+------------------------------------------------------------------
+ Business cards, 400gsm matte        250       0.0850       21.25
+ Flyers A5, full colour             1200       0.0525       63.00
+ Posters A1, satin finish             35       4.3330      151.66
+------------------------------------------------------------------
+                                        Subtotal:          235.91
+                                        VAT (6.5% reduced): 15.33
+                                        TOTAL:             215.24
+
+Please quote invoice ref on all payments.

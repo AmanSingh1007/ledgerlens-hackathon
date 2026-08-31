@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Meridian Supply GmbH",
+  "invoice_number": "MS-2025-4519",
+  "invoice_date": "2025-12-04",
+  "due_date": "2025-12-18",
+  "currency": "EUR",
+  "subtotal": 200.50,
+  "tax_amount": 38.10,
+  "total": 238.60,
+  "line_items": [
+    {"description": "Respirator masks FFP2", "quantity": 40, "unit_price": 2.98, "amount": 119.20},
+    {"description": "Ear protection muffs", "quantity": 6, "unit_price": 19.90, "amount": 119.40}
+  ]
+}

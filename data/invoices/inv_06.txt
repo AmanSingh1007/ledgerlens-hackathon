@@ -1,0 +1,26 @@
+NORTHWIND OFFICE SUPPLIES
+482 Commerce Blvd, Portland, OR 97201
+
+                  CREDIT NOTE
+
+Credit Note No: CN-2025-0031
+Date: July 28, 2025
+Reference: Original invoice NW-2025-0117
+Currency: USD
+
+Issued To:
+  Gable & Finch Accounting LLP
+
+Reason: Return of 2 defective ink cartridges.
+
+--------------------------------------------------------------
+ DESCRIPTION                      QTY    UNIT PRICE     AMOUNT
+--------------------------------------------------------------
+ Ink cartridge, black (XL)         -2       31.00       -62.00
+--------------------------------------------------------------
+                                        Subtotal:       -62.00
+                                        Sales Tax (8%):  -4.96
+                                        TOTAL CREDIT:   -66.96
+
+This credit will be applied against your next invoice.
+No payment is due.

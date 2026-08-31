@@ -1,0 +1,22 @@
+Meridian Supply GmbH
+Industriestrasse 14, 68199 Mannheim, Deutschland
+USt-IdNr: DE 811 223 344
+
+RECHNUNG / INVOICE
+
+Rechnungsnummer: MS-2025-4482
+Rechnungsdatum: 27.11.2025
+Zahlungsbedingungen: Zahlbar innerhalb 14 Tagen
+
+Kunde: Falkner Bau AG, Basel
+
+-------------------------------------------------------------
+ POS  BEZEICHNUNG                MENGE   PREIS      BETRAG
+-------------------------------------------------------------
+  1   Industrial work gloves       20     5.95      119.00
+  2   Safety goggles, clear        10    11.90      119.00
+-------------------------------------------------------------
+                                   GESAMTBETRAG:    238.00 EUR
+
+Alle Preise inkl. 19% MwSt. (All prices include 19% VAT.)
+Bankverbindung: Sparkasse Mannheim, IBAN DE44 5005 0201 0000 0000 00

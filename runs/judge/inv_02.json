@@ -1,0 +1,30 @@
+{
+  "vendor_name": "BRIGHTLINE ELECTRIC CO.",
+  "invoice_number": "BL-8803",
+  "invoice_date": "2025-06-02",
+  "due_date": "2025-07-02",
+  "currency": "USD",
+  "subtotal": 550.8,
+  "tax_amount": 52.33,
+  "total": 603.13,
+  "line_items": [
+    {
+      "description": "THHN cable, 3m section",
+      "quantity": 12,
+      "unit_price": 8.4,
+      "amount": 100.8
+    },
+    {
+      "description": "Breaker panel, 200A",
+      "quantity": 1,
+      "unit_price": 310.0,
+      "amount": 310.0
+    },
+    {
+      "description": "Labor (hours)",
+      "quantity": 4,
+      "unit_price": 35.0,
+      "amount": 140.0
+    }
+  ]
+}

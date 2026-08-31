@@ -1,0 +1,18 @@
+{
+  "vendor_name": "NORTHWIND OFFICE SUPPLIES",
+  "invoice_number": "CN-2025-0031",
+  "invoice_date": "2025-07-28",
+  "due_date": null,
+  "currency": "USD",
+  "subtotal": -62.0,
+  "tax_amount": -4.96,
+  "total": -66.96,
+  "line_items": [
+    {
+      "description": "Ink cartridge, black (XL)",
+      "quantity": -2,
+      "unit_price": 31.0,
+      "amount": -62.0
+    }
+  ]
+}

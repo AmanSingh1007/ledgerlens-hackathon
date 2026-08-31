@@ -1,0 +1,36 @@
+HARBOR FREIGHT LOGISTICS INC.
+Pier 40, Long Beach, CA 90802
+
+FREIGHT INVOICE                                    Page 1 of 2
+
+Invoice No: HFL-77120
+Invoice Date: March 10, 2025
+Payment Terms: Net 30
+Currency: USD
+
+Shipper: Stellar Components Ltd.
+
+--------------------------------------------------------------
+ CHARGE DESCRIPTION               QTY    RATE         AMOUNT
+--------------------------------------------------------------
+ Ocean freight, 40ft container     2    1,850.00     3,700.00
+ Port handling & THC               2      245.00       940.00
+--------------------------------------------------------------
+                          CARRIED FORWARD:           4,190.00
+
+==============================================================
+
+HARBOR FREIGHT LOGISTICS INC.                      Page 2 of 2
+Invoice No: HFL-77120 (continued)
+
+--------------------------------------------------------------
+ CHARGE DESCRIPTION               QTY    RATE         AMOUNT
+--------------------------------------------------------------
+ Customs brokerage                 1      380.00       380.00
+ Fuel surcharge (BAF)              1      210.00       210.00
+--------------------------------------------------------------
+                          BROUGHT FORWARD:           4,190.00
+                          SUBTOTAL:                  4,780.00
+                          TAX: 0.00 (international transport,
+                               zero-rated)
+                          TOTAL DUE:                 4,780.00

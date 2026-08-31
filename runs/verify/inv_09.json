@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Juniper Catering & Events",
+  "invoice_number": "JC-1188",
+  "invoice_date": "2025-08-02",
+  "due_date": "2025-08-16",
+  "currency": "CAD",
+  "subtotal": 1462.5,
+  "tax_amount": 73.13,
+  "total": 1535.63,
+  "line_items": [
+    {
+      "description": "Lunch buffet, per person",
+      "quantity": 45,
+      "unit_price": 18.5,
+      "amount": 832.5
+    },
+    {
+      "description": "Beverage package, per person",
+      "quantity": 45,
+      "unit_price": 6.0,
+      "amount": 270.0
+    },
+    {
+      "description": "Service staff (per staff)",
+      "quantity": 3,
+      "unit_price": 120.0,
+      "amount": 360.0
+    }
+  ]
+}

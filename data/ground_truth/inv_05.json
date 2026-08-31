@@ -1,0 +1,14 @@
+{
+  "vendor_name": "Alpine Data Services s.r.o.",
+  "invoice_number": "ADS-2025-0223",
+  "invoice_date": "2025-04-01",
+  "due_date": "2025-04-15",
+  "currency": "EUR",
+  "subtotal": 1350.00,
+  "tax_amount": 135.00,
+  "total": 1485.00,
+  "line_items": [
+    {"description": "Dedicated server hosting (mo.)", "quantity": 3, "unit_price": 420.00, "amount": 1260.00},
+    {"description": "Off-site backup add-on (mo.)", "quantity": 3, "unit_price": 30.00, "amount": 90.00}
+  ]
+}

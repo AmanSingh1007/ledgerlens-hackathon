@@ -1,0 +1,19 @@
+Tomas Rivera - Handyman Services
+cell: 555-0182
+
+  invoice no. 47
+
+  date: Aug 5, 2025
+
+  for: Mrs. Delgado, 88 Ashworth Lane
+
+  fence repair - materials  ..............  180.00
+  labor - 6 hrs @ 45/hr  .................  270.00
+
+                          total ......  450.00
+
+  no tax - small supplier
+  terms: net 30
+  (amounts in US dollars)
+
+  thanks! -- T.R.

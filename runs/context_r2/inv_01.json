@@ -1,0 +1,30 @@
+{
+  "vendor_name": "Northwind Office Supplies",
+  "invoice_number": "NW-2025-0117",
+  "invoice_date": "2025-07-14",
+  "due_date": "2025-08-13",
+  "currency": "USD",
+  "subtotal": 163.98,
+  "tax_amount": 13.12,
+  "total": 177.1,
+  "line_items": [
+    {
+      "description": "Copy paper A4 80gsm (500 shts)",
+      "quantity": 10,
+      "unit_price": 4.5,
+      "amount": 45.0
+    },
+    {
+      "description": "Heavy-duty stapler",
+      "quantity": 2,
+      "unit_price": 12.99,
+      "amount": 25.98
+    },
+    {
+      "description": "Ink cartridge, black (XL)",
+      "quantity": 3,
+      "unit_price": 31.0,
+      "amount": 93.0
+    }
+  ]
+}

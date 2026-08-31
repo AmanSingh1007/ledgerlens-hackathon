@@ -1,0 +1,16 @@
+{
+  "vendor_name": "Harbor Freight Logistics Inc.",
+  "invoice_number": "HFL-77120",
+  "invoice_date": "2025-03-10",
+  "due_date": "2025-04-09",
+  "currency": "USD",
+  "subtotal": 4780.00,
+  "tax_amount": 0.00,
+  "total": 4780.00,
+  "line_items": [
+    {"description": "Ocean freight, 40ft container", "quantity": 2, "unit_price": 1850.00, "amount": 3700.00},
+    {"description": "Port handling & THC", "quantity": 2, "unit_price": 245.00, "amount": 490.00},
+    {"description": "Customs brokerage", "quantity": 1, "unit_price": 380.00, "amount": 380.00},
+    {"description": "Fuel surcharge (BAF)", "quantity": 1, "unit_price": 210.00, "amount": 210.00}
+  ]
+}

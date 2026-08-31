@@ -1,0 +1,15 @@
+{
+  "vendor_name": "Cascade Web Studio",
+  "invoice_number": "CWS-341",
+  "invoice_date": "2025-05-20",
+  "due_date": "2025-06-19",
+  "currency": "USD",
+  "subtotal": 1242.00,
+  "tax_amount": 0.00,
+  "total": 1242.00,
+  "line_items": [
+    {"description": "Monthly design retainer (May)", "quantity": 1, "unit_price": 1200.00, "amount": 1200.00},
+    {"description": "Managed hosting (monthly x12)", "quantity": 12, "unit_price": 15.00, "amount": 180.00},
+    {"description": "Loyalty discount (10%)", "quantity": 1, "unit_price": -138.00, "amount": -138.00}
+  ]
+}

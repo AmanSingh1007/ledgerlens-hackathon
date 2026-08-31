@@ -1,0 +1,23 @@
+CASCADE WEB STUDIO
+"Websites that work as hard as you do"
+hello@cascadeweb.example | Bend, Oregon
+
+Invoice #CWS-341
+Issued: May 20, 2025
+Payment due: June 19, 2025
+All amounts in USD.
+
+Client: High Desert Coffee Roasters
+
+------------------------------------------------------------------
+ SERVICE                            QTY    RATE          AMOUNT
+------------------------------------------------------------------
+ Monthly design retainer (May)       1     1,200.00      1,200.00
+ Managed hosting (monthly x12)      12        15.00        180.00
+ Loyalty discount (10%)              1      -138.00       -138.00
+------------------------------------------------------------------
+                                        Subtotal:        1,242.00
+                                        Tax:  not applicable (services)
+                                        AMOUNT DUE:      1,242.00
+
+Please pay by bank transfer. Late payments accrue 1.5%/month.

@@ -1,0 +1,24 @@
+{
+  "vendor_name": "Tomas Rivera - Handyman Services",
+  "invoice_number": "47",
+  "invoice_date": "2025-08-05",
+  "due_date": "2025-09-04",
+  "currency": "USD",
+  "subtotal": 450.0,
+  "tax_amount": 0.0,
+  "total": 450.0,
+  "line_items": [
+    {
+      "description": "fence repair - materials",
+      "quantity": 1,
+      "unit_price": 180.0,
+      "amount": 180.0
+    },
+    {
+      "description": "labor - 6 hrs @ 45/hr",
+      "quantity": 6,
+      "unit_price": 45.0,
+      "amount": 270.0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+BRIGHTLINE ELECTRIC CO.
+Licensed Electrical Contractor #C-10-4471
+77 Fulton St, Suite 3, Sacramento, CA
+
+INV0ICE
+
+Inv0ice N0: BL-88O3
+Date: June 2, 2025
+Terms: Net 3O
+
+S0ld To: Riverbend Property Mgmt
+
+-----------------------------------------------------------
+ITEM                            QTY   UNIT PRlCE    AM0UNT
+-----------------------------------------------------------
+THHN cable, 3m section           12      8.40       108.00
+Breaker panel, 200A               1    310.00       310.00
+Labor (hours)                     4     35.00       140.00
+-----------------------------------------------------------
+                                  Subt0tal:         55O.8O
+                                  Tax (9.5%):        52.33
+                                  T0TAL:            6O3.13
+
+All amounts in US Dollars.
+Remit payment within 30 days of invoice date.

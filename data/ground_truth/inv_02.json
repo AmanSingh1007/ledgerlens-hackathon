@@ -1,0 +1,15 @@
+{
+  "vendor_name": "Brightline Electric Co.",
+  "invoice_number": "BL-8803",
+  "invoice_date": "2025-06-02",
+  "due_date": "2025-07-02",
+  "currency": "USD",
+  "subtotal": 550.80,
+  "tax_amount": 52.33,
+  "total": 603.13,
+  "line_items": [
+    {"description": "THHN cable, 3m section", "quantity": 12, "unit_price": 8.40, "amount": 100.80},
+    {"description": "Breaker panel, 200A", "quantity": 1, "unit_price": 310.00, "amount": 310.00},
+    {"description": "Labor (hours)", "quantity": 4, "unit_price": 35.00, "amount": 140.00}
+  ]
+}

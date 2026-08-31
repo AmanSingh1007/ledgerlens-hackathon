@@ -1,0 +1,26 @@
+STELLAR COMPONENTS LTD.
+Unit 9, Innovation Park, Austin, TX 78744
+sales@stellarcomponents.example
+
+INVOICE
+
+Invoice Number: SC-9931
+Invoice Date: 2025-01-22
+Due Date: 2025-02-21
+Currency: USD
+
+Ship To: MakerWorks Collective, Dallas TX
+
+--------------------------------------------------------------
+ PART / DESCRIPTION               QTY    UNIT PRICE     AMOUNT
+--------------------------------------------------------------
+ MCU-3208 microcontroller         100        3.20       320.00
+ PCB prototype, 2-layer            10       12.50       125.00
+ Shipping & handling (ground)       1       25.00        25.00
+--------------------------------------------------------------
+                              Subtotal (goods):         445.00
+                              Shipping:                  25.00
+                              Sales tax 7% (goods only): 31.15
+                              TOTAL:                    501.15
+
+Note: Shipping charges are not subject to sales tax in this state.
