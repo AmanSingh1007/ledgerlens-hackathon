@@ -86,7 +86,19 @@ Expected: 2 extractions detected as arithmetically inconsistent (inv_08,
 inv_11) and both fully corrected; inv_03/07/14 reported as validator-invisible
 (they are internally consistent — that is what iterations 1 and 3 are for).
 
-## 7. What to look at
+## 7. (Optional) Run the interactive web app
+
+```
+python app.py
+```
+Open http://localhost:8765 — paste an invoice or load a sample, click
+**Extract & verify**, and watch the live pipeline (memory lookup, extraction,
+validator verdicts, corrections) beside the final JSON and learned vendor
+profiles. Same engine rules as the harness (CLI or API key). Each extraction
+takes 10–40 s. `webapp_memory.json` holds the app's learned vendor profiles;
+delete it to reset.
+
+## 8. What to look at
 
 - `runs/<stage>/results.json` — machine-readable scores per field per invoice.
 - `runs/<stage>/trajectory_inv_XX.jsonl` — the full agent trajectory: every

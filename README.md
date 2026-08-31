@@ -165,9 +165,22 @@ Treat verification as insurance and an escalation gate, not as the engine of
 quality — and never spend a second LLM call to get an opinion correlated with
 the first one.
 
+## Run it as working software
+
+```
+python app.py        # then open http://localhost:8765
+```
+
+A zero-dependency web UI over the real pipeline: paste any invoice (or load one
+of the 14 samples), click **Extract & verify**, and watch the live trajectory —
+memory lookup, extraction, validator verdicts, correction rounds, memory write —
+next to the final JSON and the learned vendor profiles. Process inv_03 then
+inv_07 to watch vendor memory learn a vendor's quirks and apply them.
+
 ## Repository map
 
 ```
+app.py               web UI over the real pipeline (python app.py)
 data/invoices/       14 synthetic OCR-style invoices (the eval set)
 data/ground_truth/   ground truth JSON per invoice
 src/llm.py           engine: Claude Code CLI (`claude -p`) or Anthropic API

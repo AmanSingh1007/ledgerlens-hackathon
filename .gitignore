@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 runs/*.log
+webapp_memory.json
+ledgerlens-submission.zip
+LedgerLens-demo.mp4
